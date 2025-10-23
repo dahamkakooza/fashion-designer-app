@@ -1,0 +1,1 @@
+# We're using Supabase for auth, so no Django models needed
